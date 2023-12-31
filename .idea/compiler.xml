@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="iterator-pattern-exercise (1)" />
+        <module name="command-pattern-exercise" />
+        <module name="interpreter-pattern-exercise" />
+        <module name="mediator-pattern-exercise" />
+        <module name="iterator-pattern-example (1)" />
+        <module name="interpreter-pattern-exercise (1)" />
+        <module name="iterator-pattern-example (2)" />
+        <module name="interpreter-pattern-example" />
+        <module name="mediator-pattern-example" />
+        <module name="command-pattern-exercise (1)" />
+        <module name="memento-pattern-example (1)" />
+        <module name="command-pattern-example" />
+        <module name="iterator-pattern-example" />
+        <module name="memento-pattern-exercise" />
+        <module name="command-pattern-example (2)" />
+        <module name="mediator-pattern-example (1)" />
+        <module name="mediator-pattern-exercise (1)" />
+        <module name="command-pattern-example (1)" />
+        <module name="memento-pattern-exercise (1)" />
+        <module name="iterator-pattern-exercise" />
+        <module name="memento-pattern-example" />
+        <module name="chain-of-responsibility-example" />
+        <module name="chain-of-responsibility-exercise" />
+        <module name="chain-of-responsibility-exercise (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chain-of-responsibility-example" target="11" />
+      <module name="chain-of-responsibility-exercise" target="11" />
+      <module name="chain-of-responsibility-exercise (1)" target="11" />
+      <module name="command-pattern-example" target="1.8" />
+      <module name="command-pattern-example (1)" target="1.8" />
+      <module name="command-pattern-example (2)" target="1.8" />
+      <module name="command-pattern-exercise" target="1.8" />
+      <module name="command-pattern-exercise (1)" target="1.8" />
+      <module name="interpreter-pattern-example" target="1.8" />
+      <module name="interpreter-pattern-exercise" target="1.8" />
+      <module name="interpreter-pattern-exercise (1)" target="1.8" />
+      <module name="iterator-pattern-example" target="1.8" />
+      <module name="iterator-pattern-example (1)" target="1.8" />
+      <module name="iterator-pattern-example (2)" target="1.8" />
+      <module name="iterator-pattern-exercise" target="1.8" />
+      <module name="iterator-pattern-exercise (1)" target="1.8" />
+      <module name="mediator-pattern-example" target="1.8" />
+      <module name="mediator-pattern-example (1)" target="1.8" />
+      <module name="mediator-pattern-exercise" target="1.8" />
+      <module name="mediator-pattern-exercise (1)" target="1.8" />
+      <module name="memento-pattern-example" target="1.8" />
+      <module name="memento-pattern-example (1)" target="1.8" />
+      <module name="memento-pattern-exercise" target="1.8" />
+      <module name="memento-pattern-exercise (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

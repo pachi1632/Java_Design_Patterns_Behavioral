@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Ex_Files_Java_Design_Patterns.iml" filepath="$PROJECT_DIR$/.idea/Ex_Files_Java_Design_Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch02/02_03/end/chain-of-responsibility-example/chain-of-responsibility-example.iml" filepath="$PROJECT_DIR$/Exercise Files/Ch02/02_03/end/chain-of-responsibility-example/chain-of-responsibility-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch02/02_04/exercise/chain-of-responsibility-exercise/chain-of-responsibility-exercise.iml" filepath="$PROJECT_DIR$/Exercise Files/Ch02/02_04/exercise/chain-of-responsibility-exercise/chain-of-responsibility-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch02/02_05/solution/chain-of-responsibility-exercise/chain-of-responsibility-exercise (1).iml" filepath="$PROJECT_DIR$/Exercise Files/Ch02/02_05/solution/chain-of-responsibility-exercise/chain-of-responsibility-exercise (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch03/03_02/end/command-pattern-example/command-pattern-example.iml" filepath="$PROJECT_DIR$/Exercise Files/Ch03/03_02/end/command-pattern-example/command-pattern-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch03/03_02/begin/command-pattern-example/command-pattern-example (1).iml" filepath="$PROJECT_DIR$/Exercise Files/Ch03/03_02/begin/command-pattern-example/command-pattern-example (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch03/03_03/end/command-pattern-example/command-pattern-example (2).iml" filepath="$PROJECT_DIR$/Exercise Files/Ch03/03_03/end/command-pattern-example/command-pattern-example (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch03/03_04/exercise/command-pattern-exercise/command-pattern-exercise.iml" filepath="$PROJECT_DIR$/Exercise Files/Ch03/03_04/exercise/command-pattern-exercise/command-pattern-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch03/03_05/solution/command-pattern-exercise/command-pattern-exercise (1).iml" filepath="$PROJECT_DIR$/Exercise Files/Ch03/03_05/solution/command-pattern-exercise/command-pattern-exercise (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch04/04_03/end/interpreter-pattern-example/interpreter-pattern-example.iml" filepath="$PROJECT_DIR$/Exercise Files/Ch04/04_03/end/interpreter-pattern-example/interpreter-pattern-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch04/04_04/exercise/interpreter-pattern-exercise/interpreter-pattern-exercise.iml" filepath="$PROJECT_DIR$/Exercise Files/Ch04/04_04/exercise/interpreter-pattern-exercise/interpreter-pattern-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch04/04_05/solution/interpreter-pattern-exercise/interpreter-pattern-exercise (1).iml" filepath="$PROJECT_DIR$/Exercise Files/Ch04/04_05/solution/interpreter-pattern-exercise/interpreter-pattern-exercise (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch05/05_02/end/iterator-pattern-example/iterator-pattern-example.iml" filepath="$PROJECT_DIR$/Exercise Files/Ch05/05_02/end/iterator-pattern-example/iterator-pattern-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch05/05_02/begin/iterator-pattern-example/iterator-pattern-example (1).iml" filepath="$PROJECT_DIR$/Exercise Files/Ch05/05_02/begin/iterator-pattern-example/iterator-pattern-example (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch05/05_03/end/iterator-pattern-example/iterator-pattern-example (2).iml" filepath="$PROJECT_DIR$/Exercise Files/Ch05/05_03/end/iterator-pattern-example/iterator-pattern-example (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch05/05_04/exercise/iterator-pattern-exercise/iterator-pattern-exercise.iml" filepath="$PROJECT_DIR$/Exercise Files/Ch05/05_04/exercise/iterator-pattern-exercise/iterator-pattern-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch05/05_05/solution/iterator-pattern-exercise/iterator-pattern-exercise (1).iml" filepath="$PROJECT_DIR$/Exercise Files/Ch05/05_05/solution/iterator-pattern-exercise/iterator-pattern-exercise (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch06/06_02/begin/mediator-pattern-example/mediator-pattern-example.iml" filepath="$PROJECT_DIR$/Exercise Files/Ch06/06_02/begin/mediator-pattern-example/mediator-pattern-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch06/06_03/end/mediator-pattern-example/mediator-pattern-example (1).iml" filepath="$PROJECT_DIR$/Exercise Files/Ch06/06_03/end/mediator-pattern-example/mediator-pattern-example (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch06/06_04/exercise/mediator-pattern-exercise/mediator-pattern-exercise.iml" filepath="$PROJECT_DIR$/Exercise Files/Ch06/06_04/exercise/mediator-pattern-exercise/mediator-pattern-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch06/06_05/solution/mediator-pattern-exercise/mediator-pattern-exercise (1).iml" filepath="$PROJECT_DIR$/Exercise Files/Ch06/06_05/solution/mediator-pattern-exercise/mediator-pattern-exercise (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch07/07_02/end/memento-pattern-example/memento-pattern-example.iml" filepath="$PROJECT_DIR$/Exercise Files/Ch07/07_02/end/memento-pattern-example/memento-pattern-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch07/07_02/begin/memento-pattern-example/memento-pattern-example (1).iml" filepath="$PROJECT_DIR$/Exercise Files/Ch07/07_02/begin/memento-pattern-example/memento-pattern-example (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch07/07_03/exercise/memento-pattern-exercise/memento-pattern-exercise.iml" filepath="$PROJECT_DIR$/Exercise Files/Ch07/07_03/exercise/memento-pattern-exercise/memento-pattern-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch07/07_04/solution/memento-pattern-exercise/memento-pattern-exercise (1).iml" filepath="$PROJECT_DIR$/Exercise Files/Ch07/07_04/solution/memento-pattern-exercise/memento-pattern-exercise (1).iml" />
+    </modules>
+  </component>
+</project>
