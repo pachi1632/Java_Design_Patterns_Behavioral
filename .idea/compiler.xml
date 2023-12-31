@@ -8,8 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="iterator-pattern-exercise (1)" />
         <module name="command-pattern-exercise" />
-        <module name="interpreter-pattern-exercise" />
         <module name="mediator-pattern-exercise" />
+        <module name="interpreter-pattern-exercise" />
         <module name="iterator-pattern-example (1)" />
         <module name="interpreter-pattern-exercise (1)" />
         <module name="iterator-pattern-example (2)" />
@@ -42,8 +42,8 @@
       <module name="command-pattern-exercise" target="1.8" />
       <module name="command-pattern-exercise (1)" target="1.8" />
       <module name="interpreter-pattern-example" target="1.8" />
-      <module name="interpreter-pattern-exercise" target="1.8" />
-      <module name="interpreter-pattern-exercise (1)" target="1.8" />
+      <module name="interpreter-pattern-exercise" target="8" />
+      <module name="interpreter-pattern-exercise (1)" target="8" />
       <module name="iterator-pattern-example" target="1.8" />
       <module name="iterator-pattern-example (1)" target="1.8" />
       <module name="iterator-pattern-example (2)" target="1.8" />
@@ -51,12 +51,12 @@
       <module name="iterator-pattern-exercise (1)" target="1.8" />
       <module name="mediator-pattern-example" target="1.8" />
       <module name="mediator-pattern-example (1)" target="1.8" />
-      <module name="mediator-pattern-exercise" target="1.8" />
-      <module name="mediator-pattern-exercise (1)" target="1.8" />
+      <module name="mediator-pattern-exercise" target="8" />
+      <module name="mediator-pattern-exercise (1)" target="8" />
       <module name="memento-pattern-example" target="1.8" />
       <module name="memento-pattern-example (1)" target="1.8" />
-      <module name="memento-pattern-exercise" target="1.8" />
-      <module name="memento-pattern-exercise (1)" target="1.8" />
+      <module name="memento-pattern-exercise" target="8" />
+      <module name="memento-pattern-exercise (1)" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

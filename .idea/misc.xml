@@ -3,30 +3,30 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/Exercise Files/Ch02/02_03/end/chain-of-responsibility-example/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise Files/Ch02/02_04/exercise/chain-of-responsibility-exercise/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise Files/Ch02/02_05/solution/chain-of-responsibility-exercise/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise Files/Ch03/03_02/end/command-pattern-example/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise Files/Ch03/03_02/begin/command-pattern-example/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise Files/Ch03/03_03/end/command-pattern-example/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise Files/Ch03/03_04/exercise/command-pattern-exercise/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise Files/Ch03/03_05/solution/command-pattern-exercise/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise Files/Ch04/04_03/end/interpreter-pattern-example/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise Files/Ch04/04_04/exercise/interpreter-pattern-exercise/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise Files/Ch04/04_05/solution/interpreter-pattern-exercise/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise Files/Ch05/05_02/end/iterator-pattern-example/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise Files/Ch05/05_02/begin/iterator-pattern-example/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise Files/Ch05/05_03/end/iterator-pattern-example/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise Files/Ch05/05_04/exercise/iterator-pattern-exercise/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise Files/Ch05/05_05/solution/iterator-pattern-exercise/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise Files/Ch06/06_02/begin/mediator-pattern-example/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise Files/Ch06/06_03/end/mediator-pattern-example/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise Files/Ch06/06_04/exercise/mediator-pattern-exercise/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise Files/Ch06/06_05/solution/mediator-pattern-exercise/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise Files/Ch07/07_02/end/memento-pattern-example/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise Files/Ch07/07_02/begin/memento-pattern-example/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise Files/Ch07/07_03/exercise/memento-pattern-exercise/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise Files/Ch07/07_04/solution/memento-pattern-exercise/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise Files/Ch03_CommandPattern/03_02/end/command-pattern-example/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise Files/Ch03_CommandPattern/03_02/begin/command-pattern-example/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise Files/Ch03_CommandPattern/03_03/end/command-pattern-example/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise Files/Ch03_CommandPattern/03_04/exercise/command-pattern-exercise/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise Files/Ch03_CommandPattern/03_05/solution/command-pattern-exercise/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise Files/Ch07_MementoPattern/07_02/end/memento-pattern-example/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise Files/Ch07_MementoPattern/07_02/begin/memento-pattern-example/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise Files/Ch07_MementoPattern/07_03/exercise/memento-pattern-exercise/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise Files/Ch07_MementoPattern/07_04/solution/memento-pattern-exercise/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise Files/Ch05_IteratorPattern/05_02/end/iterator-pattern-example/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise Files/Ch05_IteratorPattern/05_02/begin/iterator-pattern-example/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise Files/Ch05_IteratorPattern/05_03/end/iterator-pattern-example/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise Files/Ch05_IteratorPattern/05_04/exercise/iterator-pattern-exercise/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise Files/Ch05_IteratorPattern/05_05/solution/iterator-pattern-exercise/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise Files/Ch06_MediatorPattern/06_02/begin/mediator-pattern-example/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise Files/Ch06_MediatorPattern/06_03/end/mediator-pattern-example/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise Files/Ch06_MediatorPattern/06_04/exercise/mediator-pattern-exercise/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise Files/Ch06_MediatorPattern/06_05/solution/mediator-pattern-exercise/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise Files/Ch04_InterpreterPatter/04_03/end/interpreter-pattern-example/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise Files/Ch04_InterpreterPatter/04_04/exercise/interpreter-pattern-exercise/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise Files/Ch04_InterpreterPatter/04_05/solution/interpreter-pattern-exercise/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise Files/Ch02_ChainOfResponsibilitiesPatter/02_03/end/chain-of-responsibility-example/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise Files/Ch02_ChainOfResponsibilitiesPatter/02_04/exercise/chain-of-responsibility-exercise/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise Files/Ch02_ChainOfResponsibilitiesPatter/02_05/solution/chain-of-responsibility-exercise/pom.xml" />
       </list>
     </option>
   </component>
