@@ -1,0 +1,3 @@
+Command Pattern
+=====================================================================================================================
+In the Command pattern, a request is encapsulated as an Object
