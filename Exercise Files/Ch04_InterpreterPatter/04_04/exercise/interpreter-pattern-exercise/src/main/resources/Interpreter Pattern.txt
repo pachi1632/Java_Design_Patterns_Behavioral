@@ -1,0 +1,17 @@
+Interpreter Pattern
+=====================================================================================================================
+Interpreter pattern could be used to
+    - Write custom regular expressions
+    - Write own compiler
+    - Language translator
+    - SQL parsers
+    - Calculators
+
+Interpreter Pattern
+    - Express a problem as a sentence
+        - The idea of Interpreter pattern is, ff the same problem keeps coming up,
+        then you can express that problem as a sentence and interpret it
+    - Define Grammar
+        - The interpreter defines a grammar for the language
+    - Build an abstract Syntax tree
+        - After defining grammar it is used as an abstract tree to interpret it
